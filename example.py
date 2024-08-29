@@ -1,7 +1,7 @@
 
 
 
-'''
+
 #1
 s=input('enter string')
 print(len(s))
@@ -1086,7 +1086,7 @@ for i in range(1,n+1):
     spaces-=1
     
 
-'''
+
 #53
 n=int(input())
 stars=n*2-1
